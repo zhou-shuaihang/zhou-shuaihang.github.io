@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics, Beijing Normal University, 2019-2023(Expected)
+  * GPA: 3.8/4.0 (Top5%)
+  * Awards and Honors: 
+    * The Second Prize Scholarship of Beijing Normal University, 2020-2022
+    * Honorable Mention, Mathematical Contest in Modeling, 2022
+    * The First Prize Competition Scholarship of Beijing Normal University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Apollo Intelligent Driving Technology (Beijing) Co., Ltd: Data analyst Intern, July 2022 – Sept. 2022
+Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git

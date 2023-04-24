@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, welcome to my homepage!
 
-I am a 4th-year undergraduate student at Beijing Normal University, majoring in statistics. I am currently working on my undergraduate thesis under the supervision of Prof. [Gaorong Li](http://stat.bnu.edu.cn/ywjl/247618.htm) at [School of Statistics of Beijing Normal University](http://stat.bnu.edu.cn).
+I am a 4th-year undergraduate student at Beijing Normal University, majoring in statistics. And I am also an incoming Ph.D. student in statistics at the University of Florida this fall. I am currently working on my undergraduate thesis under the supervision of Prof. [Gaorong Li](http://stat.bnu.edu.cn/ywjl/247618.htm) at [School of Statistics of Beijing Normal University](http://stat.bnu.edu.cn).
 
 Feel free to contact me if you would like to connect!
 
